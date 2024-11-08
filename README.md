@@ -10,8 +10,8 @@ Bem Vindo(a) Ao Meu Perfil GitHub,Sou Vitor Lourival
 
 ## GitStatus📊
 
-![vitorLourival22 GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorLourival22&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorLourival22&layout=compact)
+![vitorLourival GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorlourival&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlourival&layout=compact)
 
 ## Linguagens e Ferramentas🔧
 
